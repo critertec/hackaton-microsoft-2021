@@ -1,8 +1,10 @@
+import Header from './components/header/header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <Header />
 
       <h1>Resuelve tus dudas</h1>
       <h2>Ingresa al foro</h2>

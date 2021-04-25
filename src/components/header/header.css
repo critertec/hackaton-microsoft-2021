@@ -1,0 +1,54 @@
+header {
+  background-color: var(--black);
+  height: 100px;
+}
+header .logo {
+  position: relative;
+  height: 100%;
+  float: left;
+  margin-left: 5%;
+  padding: 15px 0px;
+}
+header nav {
+  background-color: var(--black);
+  color: white;
+  height: 100%;
+  float: right;
+  margin-right: 5%;
+}
+header nav ul {
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+}
+header button {
+  display: none;
+  height: 100%;
+  float: right;
+  background-color: inherit;
+}
+
+@media screen and (max-width: 1000px) {
+  header nav {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 100px;
+    right: -5%;
+    padding: 0px 12px 15px;
+    z-index: 2;
+  }
+  .closed {
+    display: none;
+  }
+
+  header nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  header button {
+    display: block;
+  }
+}

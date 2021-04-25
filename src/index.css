@@ -70,14 +70,31 @@ button {
 button:hover {
   font-family: segoe-black;
 }
-button:only-child {
-  border-radius: 7px;
+button:only-of-type {
+  border-radius: 7px !important;
 }
 button:first-child:nth-last-child(n + 2) {
   padding-left: 45px;
-  border-radius: 7px 0px 0px 7px !important;
+  border-radius: 7px 0px 0px 7px;
 }
 button:last-child:nth-child(n + 2) {
   padding-right: 45px;
-  border-radius: 0px 7px 7px 0px !important;
+  border-radius: 0px 7px 7px 0px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin-left: 20px;
+  padding: 5px 0px;
+  font-family: segoe-light;
+  font-size: 25px;
+}
+li::before {
+  content: '/';
+  color: var(--pink);
 }
