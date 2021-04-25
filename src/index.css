@@ -10,12 +10,10 @@
   font-family: segoe-light;
   src: url(fonts/segoeui.ttf);
 }
-
 @font-face {
   font-family: segoe-regular;
   src: url(fonts/segoeuib.ttf);
 }
-
 @font-face {
   font-family: segoe-black;
   src: url(fonts/seguibl.ttf);
@@ -69,6 +67,7 @@ button {
 }
 button:hover {
   font-family: segoe-black;
+  cursor: pointer;
 }
 button:only-of-type {
   border-radius: 7px !important;
@@ -97,4 +96,13 @@ li {
 li::before {
   content: '/';
   color: var(--pink);
+}
+li:hover {
+  font-family: segoe-regular;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
 }

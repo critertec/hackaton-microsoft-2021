@@ -9,6 +9,9 @@ header .logo {
   margin-left: 5%;
   padding: 15px 0px;
 }
+header .logo:hover {
+  cursor: pointer;
+}
 header nav {
   background-color: var(--black);
   color: white;
@@ -21,6 +24,9 @@ header nav ul {
   height: 100%;
   flex-direction: row;
   align-items: center;
+}
+a.active {
+  font-family: segoe-black;
 }
 header button {
   display: none;

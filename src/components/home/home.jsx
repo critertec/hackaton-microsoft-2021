@@ -1,11 +1,6 @@
-import Header from './components/header/header';
-import './App.css';
-
-function App() {
+const Home = () => {
   return (
-    <div className="App">
-      <Header />
-
+    <>
       <h1>Resuelve tus dudas</h1>
       <h2>Ingresa al foro</h2>
       <h3>Bienvenido</h3>
@@ -21,8 +16,8 @@ function App() {
         <button>Semana 2</button>
         <button>Semana 3</button>
       </div>
-    </div>
+    </>
   );
 }
-
-export default App;
+ 
+export default Home;
