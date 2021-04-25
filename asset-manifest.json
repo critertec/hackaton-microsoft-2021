@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/hackaton-microsoft-2021/static/css/main.815a4025.chunk.css",
-    "main.js": "/hackaton-microsoft-2021/static/js/main.eb0f9a52.chunk.js",
-    "main.js.map": "/hackaton-microsoft-2021/static/js/main.eb0f9a52.chunk.js.map",
-    "runtime-main.js": "/hackaton-microsoft-2021/static/js/runtime-main.5020b37e.js",
-    "runtime-main.js.map": "/hackaton-microsoft-2021/static/js/runtime-main.5020b37e.js.map",
-    "static/js/2.c8376f5a.chunk.js": "/hackaton-microsoft-2021/static/js/2.c8376f5a.chunk.js",
-    "static/js/2.c8376f5a.chunk.js.map": "/hackaton-microsoft-2021/static/js/2.c8376f5a.chunk.js.map",
-    "static/js/3.55cdea5d.chunk.js": "/hackaton-microsoft-2021/static/js/3.55cdea5d.chunk.js",
-    "static/js/3.55cdea5d.chunk.js.map": "/hackaton-microsoft-2021/static/js/3.55cdea5d.chunk.js.map",
+    "main.css": "/hackaton-microsoft-2021/static/css/main.12d443dd.chunk.css",
+    "main.js": "/hackaton-microsoft-2021/static/js/main.d9ec6690.chunk.js",
+    "main.js.map": "/hackaton-microsoft-2021/static/js/main.d9ec6690.chunk.js.map",
+    "runtime-main.js": "/hackaton-microsoft-2021/static/js/runtime-main.db854f9f.js",
+    "runtime-main.js.map": "/hackaton-microsoft-2021/static/js/runtime-main.db854f9f.js.map",
+    "static/js/2.9aff6869.chunk.js": "/hackaton-microsoft-2021/static/js/2.9aff6869.chunk.js",
+    "static/js/2.9aff6869.chunk.js.map": "/hackaton-microsoft-2021/static/js/2.9aff6869.chunk.js.map",
     "index.html": "/hackaton-microsoft-2021/index.html",
-    "static/css/main.815a4025.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.815a4025.chunk.css.map",
-    "static/js/2.c8376f5a.chunk.js.LICENSE.txt": "/hackaton-microsoft-2021/static/js/2.c8376f5a.chunk.js.LICENSE.txt",
+    "static/css/main.12d443dd.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.12d443dd.chunk.css.map",
+    "static/js/2.9aff6869.chunk.js.LICENSE.txt": "/hackaton-microsoft-2021/static/js/2.9aff6869.chunk.js.LICENSE.txt",
     "static/media/logo.ab230be9.svg": "/hackaton-microsoft-2021/static/media/logo.ab230be9.svg",
     "static/media/index.css": "/hackaton-microsoft-2021/static/media/seguibl.443f6e7a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5020b37e.js",
-    "static/js/2.c8376f5a.chunk.js",
-    "static/css/main.815a4025.chunk.css",
-    "static/js/main.eb0f9a52.chunk.js"
+    "static/js/runtime-main.db854f9f.js",
+    "static/js/2.9aff6869.chunk.js",
+    "static/css/main.12d443dd.chunk.css",
+    "static/js/main.d9ec6690.chunk.js"
   ]
 }
