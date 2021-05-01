@@ -1,0 +1,20 @@
+section {
+    border-top: 1px solid var(--black);
+    border-bottom: 1px solid white;
+    min-height: calc(100vh - 100px);
+    border-left: 10px solid var(--pink);
+}
+
+button {
+    height: 32px;
+    font-size: 18px;
+}
+button.selected {
+    font-family: segoe-black;
+}
+
+.calendar {
+    height: max(65vh, 630px);
+    width: min(95%, 1100px);
+    margin: 20px auto;
+}

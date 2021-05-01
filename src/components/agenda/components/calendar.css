@@ -1,0 +1,63 @@
+.calendar {
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    color: var(--pink);
+}
+.calendar-row {
+    display: grid;
+    grid-template-columns: 40px repeat(5, 1fr);
+}
+.calendar-hour {
+    font-size: 14px;
+    text-align: left;
+}
+.calendar-title {
+    margin-left: -1px;
+    background-color: var(--gray);
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+
+    font-size: 26px;
+    text-align: left;
+    line-height: 0.9;
+
+    padding: 5px 12px;
+}
+.calendar-title p {
+    margin: 0px;
+    font-family: segoe-regular;
+    font-size: 48px;
+}
+.calendar-cell {
+    margin-top: -1px;
+    margin-left: -1px;
+    border: 1px solid grey;
+}
+
+.evento {
+    position: relative;
+    height: 100%;
+    background-color: var(--petrol);
+    border: 0.1px solid var(--petrol);
+    border-left: 10px solid var(--blue);
+    
+    font-size: 14px;
+    line-height: 1;
+    text-align: left;
+    color: white;
+
+    padding: 5px 5px;
+}
+.evento p {
+    margin: 0px;
+}
+.evento button {
+    margin-left: 5px;
+    position: absolute;
+    height: 26px;
+    font-size: 12px;
+    line-height: 1;
+    text-align: left;
+    bottom: 5px;
+    padding: 0px 15px 0px 8px !important;
+}

@@ -1,0 +1,73 @@
+{
+    "Semana 1": {
+        "Lunes": {
+            "day": "1",
+            "11:00": {
+                "title": "Ideas que transforman: Design Thinking y Office 365"
+            }
+        },
+        "Martes": {
+            "day": "2"
+        },
+        "Miércoles": {
+            "day": "3"
+        },
+        "Jueves": {
+            "day": "4"
+        },
+        "Viernes": {
+            "day": "5"
+        }
+    },
+    "Semana 2": {
+        "Lunes": {
+            "day": "1"
+        },
+        "Martes": {
+            "day": "2"
+        },
+        "Miércoles": {
+            "day": "3"
+        },
+        "Jueves": {
+            "day": "4"
+        },
+        "Viernes": {
+            "day": "5"
+        }
+    },
+    "Semana 3": {
+        "Lunes": {
+            "day": "1"
+        },
+        "Martes": {
+            "day": "2"
+        },
+        "Miércoles": {
+            "day": "3"
+        },
+        "Jueves": {
+            "day": "4"
+        },
+        "Viernes": {
+            "day": "5"
+        }
+    },
+    "Semana 4": {
+        "Lunes": {
+            "day": "1"
+        },
+        "Martes": {
+            "day": "2"
+        },
+        "Miércoles": {
+            "day": "3"
+        },
+        "Jueves": {
+            "day": "4"
+        },
+        "Viernes": {
+            "day": "5"
+        }
+    }
+}
