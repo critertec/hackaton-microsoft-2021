@@ -128,7 +128,7 @@ a {
   button {
     font-size: 12px;
     padding: 5px 8px;
-    height: 28px;
+    height: 30px;
   }
   button:first-child:nth-last-child(n + 2) {
     padding-left: 15px;
