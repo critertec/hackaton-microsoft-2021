@@ -34,53 +34,53 @@
     },
     "Semana 2": {
         "Lunes": {
-            "day": "1"
+            "day": "6"
         },
         "Martes": {
-            "day": "2"
+            "day": "7"
         },
         "Miércoles": {
-            "day": "3"
+            "day": "8"
         },
         "Jueves": {
-            "day": "4"
+            "day": "9"
         },
         "Viernes": {
-            "day": "5"
+            "day": "10"
         }
     },
     "Semana 3": {
         "Lunes": {
-            "day": "1"
+            "day": "11"
         },
         "Martes": {
-            "day": "2"
+            "day": "12"
         },
         "Miércoles": {
-            "day": "3"
+            "day": "13"
         },
         "Jueves": {
-            "day": "4"
+            "day": "14"
         },
         "Viernes": {
-            "day": "5"
+            "day": "15"
         }
     },
     "Semana 4": {
         "Lunes": {
-            "day": "1"
+            "day": "16"
         },
         "Martes": {
-            "day": "2"
+            "day": "17"
         },
         "Miércoles": {
-            "day": "3"
+            "day": "18"
         },
         "Jueves": {
-            "day": "4"
+            "day": "19"
         },
         "Viernes": {
-            "day": "5"
+            "day": "20"
         }
     }
 }

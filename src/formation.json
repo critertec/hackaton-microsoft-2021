@@ -1,0 +1,45 @@
+{
+    "Empieza aquí": [
+        {
+            "type": "title",
+            "content": "Bienvenido"
+        },
+        {
+            "type": "paragraph",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+        },
+        {
+            "type": "paragraph",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+        },
+        {
+            "type": "download",
+            "content": "https://google.com/"
+        }
+    ],
+    "Diseña tu idea": [
+        {
+            "type": "title",
+            "content": "Diseña tu idea"
+        },
+        {
+            "type": "paragraph",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        },
+        {
+            "type": "paragraph",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        }
+    ],
+    "PowerApps y Automate": [],
+    "Azure": [],
+    "Apps integradas en Teams": []
+}

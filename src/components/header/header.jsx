@@ -3,6 +3,7 @@ import { NavLink, useLocation } from "react-router-dom";
 
 import './header.css';
 import logo from '../../assets/logo.svg';
+import hamburguer from '../../assets/hamburguer.svg';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -24,7 +25,12 @@ const Header = () => {
           <li><NavLink to="/registro">Registro</NavLink></li>
         </ul>
       </nav>
-      <button onClick={() => setMenuOpen(!menuOpen)}>X</button>
+      <img 
+        onClick={() => setMenuOpen(!menuOpen)}
+        className="hamburguer"
+        src={hamburguer}
+        alt=""
+      />
     </header>
   );
 }
