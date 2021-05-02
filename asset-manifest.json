@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/hackaton-microsoft-2021/static/css/main.92ca3dd1.chunk.css",
-    "main.js": "/hackaton-microsoft-2021/static/js/main.b0f422cc.chunk.js",
-    "main.js.map": "/hackaton-microsoft-2021/static/js/main.b0f422cc.chunk.js.map",
+    "main.css": "/hackaton-microsoft-2021/static/css/main.dd124833.chunk.css",
+    "main.js": "/hackaton-microsoft-2021/static/js/main.80365d91.chunk.js",
+    "main.js.map": "/hackaton-microsoft-2021/static/js/main.80365d91.chunk.js.map",
     "runtime-main.js": "/hackaton-microsoft-2021/static/js/runtime-main.db854f9f.js",
     "runtime-main.js.map": "/hackaton-microsoft-2021/static/js/runtime-main.db854f9f.js.map",
     "static/js/2.f8ff3e91.chunk.js": "/hackaton-microsoft-2021/static/js/2.f8ff3e91.chunk.js",
     "static/js/2.f8ff3e91.chunk.js.map": "/hackaton-microsoft-2021/static/js/2.f8ff3e91.chunk.js.map",
     "index.html": "/hackaton-microsoft-2021/index.html",
-    "static/css/main.92ca3dd1.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.92ca3dd1.chunk.css.map",
+    "static/css/main.dd124833.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.dd124833.chunk.css.map",
     "static/js/2.f8ff3e91.chunk.js.LICENSE.txt": "/hackaton-microsoft-2021/static/js/2.f8ff3e91.chunk.js.LICENSE.txt",
+    "static/media/footer.cc6cda5a.svg": "/hackaton-microsoft-2021/static/media/footer.cc6cda5a.svg",
     "static/media/hamburguer.6bbc4c10.svg": "/hackaton-microsoft-2021/static/media/hamburguer.6bbc4c10.svg",
     "static/media/login.3723f962.svg": "/hackaton-microsoft-2021/static/media/login.3723f962.svg",
     "static/media/logo.ab230be9.svg": "/hackaton-microsoft-2021/static/media/logo.ab230be9.svg",
@@ -18,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.db854f9f.js",
     "static/js/2.f8ff3e91.chunk.js",
-    "static/css/main.92ca3dd1.chunk.css",
-    "static/js/main.b0f422cc.chunk.js"
+    "static/css/main.dd124833.chunk.css",
+    "static/js/main.80365d91.chunk.js"
   ]
 }
