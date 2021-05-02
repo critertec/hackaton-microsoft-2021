@@ -2,6 +2,7 @@ import Flickity from 'react-flickity-component';
 
 import './home.css';
 import './flickity.css';
+import footer from '../../assets/footer.svg';
 
 const Home = () => {
   const flickityOptions = {
@@ -16,8 +17,7 @@ const Home = () => {
   }
 
   return (
-    <>
-      <section className="home_carousel">
+      <section className="home">
         <Flickity 
           options={flickityOptions}
         >
@@ -37,24 +37,9 @@ const Home = () => {
             <h1>¡Dura durante ?!</h1>
           </div>
         </Flickity>
+
+        <img className="footer" src={footer} alt=""/>
       </section>
-      
-      <h1>Resuelve tus dudas</h1>
-      <h2>Ingresa al foro</h2>
-      <h3>Bienvenido</h3>
-
-      <div>
-        <button>Ir al evento</button>
-      </div>
-
-      <br/><br/>
-
-      <div>
-        <button>Semana 1</button>
-        <button>Semana 2</button>
-        <button>Semana 3</button>
-      </div>
-    </>
   );
 }
  

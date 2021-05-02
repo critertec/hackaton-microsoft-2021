@@ -2,7 +2,7 @@
   border: 0px;
 
   display: grid;
-  grid-template-columns: 1fr 2.5fr;
+  grid-template-columns: min(30%, 350px) calc(100vw - min(30%, 350px));
   grid-template-rows: 1fr;
   grid-template-areas: "menu content";
 }
@@ -27,7 +27,7 @@
   grid-area: content;
 }
 .content p {
-  width: min(90%, 450px);
+  width: min(90%, 600px);
   margin: 25px auto;
   text-align: justify;
 }

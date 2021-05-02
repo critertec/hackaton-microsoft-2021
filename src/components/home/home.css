@@ -1,5 +1,5 @@
-.home_carousel {
-  height: 300px;
+.home {
+  min-height: calc(100vh - 100px);
 }
 
 .carousel-cell {

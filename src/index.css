@@ -137,3 +137,11 @@ a {
     padding-right: 15px;
   }
 }
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: min(80%, 400px);
+  height: auto;
+  transform: translateX(-50%);
+}
