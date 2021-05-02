@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './agenda.css';
-import Calendar from './components/calendar'
+import CalendarGrid from './components/calendar-grid/calendar-grid'
+import CalendarList from './components/calendar-list/calendar-list'
 import * as eventData from '../../events.json';
 
 const Agenda = () => {
@@ -24,7 +25,14 @@ const Agenda = () => {
         })}
       </div>
 
-      <Calendar className="calendar" events={eventData.default[selectedWeek]}/>
+      <CalendarGrid
+        week={eventData.default[selectedWeek]}
+      />
+
+      <CalendarList
+        week={eventData.default[selectedWeek]}
+      />
+
     </section>
   );
 }

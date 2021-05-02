@@ -1,0 +1,54 @@
+.calendar-list {
+  display: none;
+}
+
+.weekday-list {
+  margin: 20px 0px 0px -50px;
+  padding-left: 70px;
+  padding-bottom: 5px;
+  width: 190px;
+  display: table;
+  position: relative;
+  color: white;
+  text-align: left;
+  line-height: 1;
+  font-size: 22px;
+  z-index: 1;
+}
+.weekday-list::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--pink);
+  transform: skewX(-30deg);
+}
+.weekday-list p {
+  margin: -2px 0px;
+  font-size: 40px;
+  line-height: 1;
+  font-family: segoe-black;
+}
+
+.evento-list {
+  text-align: left;
+  width: 60%;
+  margin: 10px 40px;
+  color: var(--pink);
+  font-size: 12px;
+}
+.evento-list p {
+  margin: 0px 3px 3px;
+  color: var(--black);
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+@media (max-width: 800px) {
+  .calendar-list {
+    display: block;
+  }
+}

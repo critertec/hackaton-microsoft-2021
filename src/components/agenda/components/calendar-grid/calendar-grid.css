@@ -2,6 +2,10 @@
     display: grid;
     grid-template-rows: repeat(8, 1fr);
     color: var(--pink);
+
+    height: max(65vh, 630px);
+    width: min(95%, 1100px);
+    margin: 20px auto;
 }
 .calendar-row {
     display: grid;
@@ -60,4 +64,10 @@
     text-align: left;
     bottom: 5px;
     padding: 0px 15px 0px 8px !important;
+}
+
+@media (max-width: 800px) {
+    .calendar {
+        display: none;
+    }
 }

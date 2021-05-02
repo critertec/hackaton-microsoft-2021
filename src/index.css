@@ -59,15 +59,18 @@ h1::before, h2::before, h3::before {
   transform: skewX(-20deg);
 }
 h1 {
-  margin: 50px auto 25px;
+  margin: 25px auto 12px;
   font-size: 32px;
 }
+
 
 button {
   color: white;
   text-decoration: none;
   text-transform: uppercase;
   font-family: segoe-light;
+  height: 32px;
+  font-size: 18px;
   background-color: var(--blue);
   border: none;
   padding: 5px 25px;
@@ -75,6 +78,9 @@ button {
 button:hover {
   font-family: segoe-black;
   cursor: pointer;
+}
+button.selected {
+  font-family: segoe-black;
 }
 button:only-of-type {
   border-radius: 7px !important;
@@ -112,4 +118,22 @@ ul li:hover {
 a {
   text-decoration: inherit;
   color: inherit;
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 22px;
+  }
+
+  button {
+    font-size: 12px;
+    padding: 5px 8px;
+    height: 28px;
+  }
+  button:first-child:nth-last-child(n + 2) {
+    padding-left: 15px;
+  }
+  button:last-child:nth-child(n + 2) {
+    padding-right: 15px;
+  }
 }

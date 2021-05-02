@@ -2,15 +2,28 @@
     "Semana 1": {
         "Lunes": {
             "day": "1",
-            "11:00": {
-                "title": "Ideas que transforman: Design Thinking y Office 365"
+            "events": {
+                "11:00": {
+                    "title": "Ideas que transforman: Design Thinking y Office 365",
+                    "link": "https://youtube.com/"
+                },
+                "16:00": {
+                    "title": "Ideas que transforman: Design Thinking y Office 365",
+                    "link": "https://youtube.com/"
+                }
             }
         },
         "Martes": {
             "day": "2"
         },
         "Miércoles": {
-            "day": "3"
+            "day": "3",
+            "events": {
+                "11:00": {
+                    "title": "Ideas que transforman: Design Thinking y Office 365",
+                    "link": "https://youtube.com/"
+                }
+            }
         },
         "Jueves": {
             "day": "4"
