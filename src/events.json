@@ -34,7 +34,13 @@
     },
     "Semana 2": {
         "Lunes": {
-            "day": "6"
+            "day": "16",
+            "events": {
+                "13:00": {
+                    "title": "Otro evento de juanjo",
+                    "link": "https://youtube.com/"
+                }
+            }
         },
         "Martes": {
             "day": "7"
