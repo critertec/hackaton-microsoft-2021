@@ -40,6 +40,11 @@
         }
     ],
     "PowerApps y Automate": [],
-    "Azure": [],
+    "Azure": [  
+        {
+            "type": "title",
+            "content": "Juanjo was here"
+        }
+    ],
     "Apps integradas en Teams": []
 }
