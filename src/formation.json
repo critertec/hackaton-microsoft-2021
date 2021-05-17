@@ -50,8 +50,8 @@
         },
         {
             "type": "paragraph",
-            "title": "Introducción a Power Apps: Descubre el valor",
-            "content": "Introducción a Power Apps: Descubre el valor y las capacidades de Power Apps y cómo puedes aprovechar esta tecnología para crear aplicaciones sencillas."
+            "title": "Introducción a Power Apps:",
+            "content": "Descubre el valor y las capacidades de Power Apps y cómo puedes aprovechar esta tecnología para crear aplicaciones sencillas."
         },
         {
             "type": "enlace",
@@ -59,7 +59,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Personalización de una aplicación de lienzo en Power Apps: aprende a personalizar una aplicación agregando controles, imágenes y lógica"
+            "title": "Personalización de una aplicación de lienzo en Power Apps:",
+            "content": " aprende a personalizar una aplicación agregando controles, imágenes y lógica"
         },
         {
             "type": "enlace",
@@ -67,7 +68,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Crear una aplicación basada en modelos en Power Apps: ¿Quieres crear aplicaciones rápidamente con poco o nada de código? Este contenido se centra en los bloques de creación de Dataverse y las aplicaciones basadas en modelos. Estos componentes clave te ayudarán a crear aplicaciones rápidas."
+            "title": "Crear una aplicación basada en modelos en Power Apps:",
+            "content": " ¿Quieres crear aplicaciones rápidamente con poco o nada de código? Este contenido se centra en los bloques de creación de Dataverse y las aplicaciones basadas en modelos. Estos componentes clave te ayudarán a crear aplicaciones rápidas."
         },
         {
             "type": "enlace",
@@ -75,7 +77,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Uso de la interfaz de usuario y controles en una aplicación de lienzo en Power Apps: La experiencia del usuario de la aplicación suele definir su éxito. Esta ruta de aprendizaje se centrará en cómo proporcionar la mejor navegación para tu idea y en cómo compilar la mejor interfaz de usuario con temas, iconos, imágenes y la personalización de colores y formas."
+            "title": "Uso de la interfaz de usuario y controles en una aplicación de lienzo en Power Apps:",
+            "content": " La experiencia del usuario de la aplicación suele definir su éxito. Esta ruta de aprendizaje se centrará en cómo proporcionar la mejor navegación para tu idea y en cómo compilar la mejor interfaz de usuario con temas, iconos, imágenes y la personalización de colores y formas."
         },
         {
             "type": "enlace",
@@ -83,7 +86,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de Power Apps: ¿Quieres usar fórmulas para mejorar la funcionalidad y cambiar el comportamiento de una aplicación de lienzo de Power Apps? Con esta ruta de aprendizaje aprenderás a hacerlo."
+            "title": "Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de Power Apps:",
+            "content": " ¿Quieres usar fórmulas para mejorar la funcionalidad y cambiar el comportamiento de una aplicación de lienzo de Power Apps? Con esta ruta de aprendizaje aprenderás a hacerlo."
         },
         {
             "type": "enlace",
@@ -91,7 +95,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Automatizar un proceso empresarial con Power Automate: Esta ruta de aprendizaje es una introducción a Power Automate, donde aprenderás a crear y administrar flujos de trabajo."
+            "title": "Automatizar un proceso empresarial con Power Automate:",
+            "content": " Esta ruta de aprendizaje es una introducción a Power Automate, donde aprenderás a crear y administrar flujos de trabajo."
         },
         {
             "type": "enlace",
@@ -125,7 +130,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Aspectos básicos de Azure: ¿Es tu primera experiencia desarrollando en la nube? Aquí encontrarás una serie de seis partes en la que se explican conceptos básicos sobre la nube, se proporciona una introducción simplificada a muchos servicios de Azure y se incluyen ejercicios prácticos para implementar un servicio por primera vez de forma gratuita."
+            "title": "Aspectos básicos de Azure:",
+            "content": " ¿Es tu primera experiencia desarrollando en la nube? Aquí encontrarás una serie de seis partes en la que se explican conceptos básicos sobre la nube, se proporciona una introducción simplificada a muchos servicios de Azure y se incluyen ejercicios prácticos para implementar un servicio por primera vez de forma gratuita."
         },
         {
             "type": "enlace",
@@ -133,7 +139,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Conceptos fundamentales de Azure: ¿Estás interesado en la nube, pero no estás seguro de cómo puede ayudarle? En este módulo, descubrirás las ventajas de usar los servicios de informática en la nube y las diferencias entre los distintos tipos y categorías de informática en la nube."
+            "title": "Conceptos fundamentales de Azure:",
+            "content": " ¿Estás interesado en la nube, pero no estás seguro de cómo puede ayudarle? En este módulo, descubrirás las ventajas de usar los servicios de informática en la nube y las diferencias entre los distintos tipos y categorías de informática en la nube."
         },
         {
             "type": "enlace",
@@ -141,7 +148,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Exploración de los conceptos de análisis de datos: Obtén información sobre cómo ingerir datos sin procesar en un sistema de análisis de datos y a usar estos datos para crear modelos analíticos que te permitan obtener conclusiones significativas sobre tus servicios."
+            "title": "Exploración de los conceptos de análisis de datos:",
+            "content": " Obtén información sobre cómo ingerir datos sin procesar en un sistema de análisis de datos y a usar estos datos para crear modelos analíticos que te permitan obtener conclusiones significativas sobre tus servicios."
         },
         {
             "type": "enlace",
@@ -149,7 +157,8 @@
         },
         {
             "type": "paragraph",
-            "content": "Introducción a la inteligencia artificial en Azure:La inteligencia artificial (IA) permite la creación de nuevas experiencias y soluciones increíbles, y Microsoft Azure proporciona servicios fáciles de usar que le ayudarán a empezar."
+            "title": "Introducción a la inteligencia artificial en Azure:",
+            "content": " La inteligencia artificial (IA) permite la creación de nuevas experiencias y soluciones increíbles, y Microsoft Azure proporciona servicios fáciles de usar que le ayudarán a empezar."
         },
         {
             "type": "enlace",
