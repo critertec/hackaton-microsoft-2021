@@ -58,6 +58,18 @@
 .content .logo {
   width: 100px;
 }
+.content span {
+  color: var(--pink);
+  font-family: segoe-black;
+}
+.content div {
+  width: min(90%, 600px);
+  margin: 0px auto;
+}
+.content .button-left {
+  margin: -15px 0px 25px;
+  display: block;
+}
 
 @media (max-width: 700px) {
   .formacion {

@@ -10,7 +10,7 @@
         },
         {
             "type": "paragraph",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+            "content": "CasaLola Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
         },
         {
             "type": "download",
@@ -42,17 +42,130 @@
     "PowerApps y Automate": [
         {
             "type": "title",
-            "content": "Hola Mundo"
+            "content": "Primeros pasos"
         },
         {
             "type": "paragraph",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+            "content": "Power Apps es un conjunto de aplicaciones, servicios, conectores y plataformas de datos que proporcionan una oportunidad para crear aplicaciones personalizadas según las necesidades del usuario. Estas se conectan a los datos almacenados en varios orígenes de datos locales como SharePoint, Excel Office 365. "
+        },
+        {
+            "type": "paragraph",
+            "title": "Introducción a Power Apps: Descubre el valor",
+            "content": "Introducción a Power Apps: Descubre el valor y las capacidades de Power Apps y cómo puedes aprovechar esta tecnología para crear aplicaciones sencillas."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/modules/introduction-power-apps/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Personalización de una aplicación de lienzo en Power Apps: aprende a personalizar una aplicación agregando controles, imágenes y lógica"
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/modules/customize-apps-in-powerapps/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Crear una aplicación basada en modelos en Power Apps: ¿Quieres crear aplicaciones rápidamente con poco o nada de código? Este contenido se centra en los bloques de creación de Dataverse y las aplicaciones basadas en modelos. Estos componentes clave te ayudarán a crear aplicaciones rápidas."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/create-app-models-business-processes/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Uso de la interfaz de usuario y controles en una aplicación de lienzo en Power Apps: La experiencia del usuario de la aplicación suele definir su éxito. Esta ruta de aprendizaje se centrará en cómo proporcionar la mejor navegación para tu idea y en cómo compilar la mejor interfaz de usuario con temas, iconos, imágenes y la personalización de colores y formas."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/ui-controls-canvas-app-powerapps/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Uso de fórmulas básicas para conseguir mejores aplicaciones de lienzo de Power Apps: ¿Quieres usar fórmulas para mejorar la funcionalidad y cambiar el comportamiento de una aplicación de lienzo de Power Apps? Con esta ruta de aprendizaje aprenderás a hacerlo."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Automatizar un proceso empresarial con Power Automate: Esta ruta de aprendizaje es una introducción a Power Automate, donde aprenderás a crear y administrar flujos de trabajo."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app/"
+        },
+        {
+            "type": "title",
+            "content": "¿Buscas más información?"
+        },
+        {
+            "type": "paragraph",
+            "content": "Encuentra en el foro recursos adicionales y más avanzados para la creación de tu App "
+        },
+        {
+            "type": "enlace",
+            "content": "https://github.com/JuanjoMurillo/HackathonMicrosoft/discussions/7"
         }
     ],
     "Azure": [  
         {
             "type": "title",
-            "content": "Juanjo was here"
+            "content": "¿Dónde iniciar?"
+        },
+        {
+            "type": "paragraph",
+            "content": "Azure es un conjunto de servicios en la nube con los cuales es posible almacenar información y crear, administrar e implementar aplicaciones en la nube."
+        },
+        {
+            "type": "paragraph",
+            "content": "Con Azure puedes almacenar datos en la nube, crear máquinas virtuales para ejecutar aplicaciones empresariales como SQL Server, SAP y Oracle; también puedes crear escritorios virtuales para el teletrabajo e incluso crear aplicaciones web y API en la nube, entre otras funciones."
+        },
+        {
+            "type": "paragraph",
+            "content": "Aspectos básicos de Azure: ¿Es tu primera experiencia desarrollando en la nube? Aquí encontrarás una serie de seis partes en la que se explican conceptos básicos sobre la nube, se proporciona una introducción simplificada a muchos servicios de Azure y se incluyen ejercicios prácticos para implementar un servicio por primera vez de forma gratuita."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Conceptos fundamentales de Azure: ¿Estás interesado en la nube, pero no estás seguro de cómo puede ayudarle? En este módulo, descubrirás las ventajas de usar los servicios de informática en la nube y las diferencias entre los distintos tipos y categorías de informática en la nube."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/modules/fundamental-azure-concepts/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Exploración de los conceptos de análisis de datos: Obtén información sobre cómo ingerir datos sin procesar en un sistema de análisis de datos y a usar estos datos para crear modelos analíticos que te permitan obtener conclusiones significativas sobre tus servicios."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/modules/explore-concepts-of-data-analytics/"
+        },
+        {
+            "type": "paragraph",
+            "content": "Introducción a la inteligencia artificial en Azure:La inteligencia artificial (IA) permite la creación de nuevas experiencias y soluciones increíbles, y Microsoft Azure proporciona servicios fáciles de usar que le ayudarán a empezar."
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/get-started-with-artificial-intelligence-on-azure/"
+        },
+        {
+            "type": "title",
+            "content": "¿Buscas más información?"
+        },
+        {
+            "type": "paragraph",
+            "content": "Si quieres explorar más de las posibilidades que ofrece Azure, te invitamos a visitar nuestro blog, en donde encontrarás cómo usar Azure para el reconocimiento de imágenes, lenguaje e incluso rostros. ¡Te esperamos!."
+        },
+        {
+            "type": "enlace",
+            "content": "https://github.com/JuanjoMurillo/HackathonMicrosoft/discussions/8"
         }
     ],
     "Apps integradas en Teams": []

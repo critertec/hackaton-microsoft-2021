@@ -33,13 +33,25 @@ const Formacion = () => {
               )
             case 'paragraph':
               return (
-                <p key={Math.random()}>{item.content}</p>
+                <p key={Math.random()}><span>{item.title}</span>{item.content}</p>
               )
             case 'download':
               return (
                 <div key={Math.random()}>
                   <img className="logo" src={login} alt=""/>
-                  <div><button>Descarga</button></div>
+                  <div>
+                    <a href={item.content} target="blank">
+                      <button>Descarga</button>
+                    </a> 
+                  </div>
+                </div>
+              )
+              case 'enlace':
+              return (
+                <div key={Math.random()}>
+                 <a href={item.content} target="blank">
+                  <button className="button-left">Ver más</button>
+                 </a> 
                 </div>
               )
             case 'video':
