@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Miguel Muñoz",
+        "content": "Instructor certificado por Microsoft desde 1995. Imparte entrenamientos de cursos oficiales en distintos centros de entrenamiento autorizados por Microsoft en el área de infraestructura, desarrollo y bases de datos.",
+        "img": "miguel_munoz"
+    },
+    {
+        "name": "Luis Beltran",
+        "content": "Investigador de TBU en Zlín, República Checa. Trabaja como desarrollador freelancer desarrollando aplicaciones .NET, principalmente móbiles (Xamarin) y de escritorio (UWP) usando tecnología en la nube(Azure).",
+        "img": "luis_beltran"
+    },
+    {
+        "name": "David Rendon",
+        "content": "Arquitecto de soluciones - EE. UU. / Latam en Kemp.ax Ayudando a las personas a desarrollar las habilidades necesarias para avanzar en su carrera a través de la nube y la inteligencia artificial.",
+        "img": "david_rendon"
+    },
+    {
+        "name": "Humberto Jaimes",
+        "content": "Desarrollador C# con experiencia en desarrollo de aplicaciones financieras con WPF y Xamarin. Creador de la comunidad Devs Xamarin en la Ciudad de México.",
+        "img": "humberto_jaimes"
+    }
+]

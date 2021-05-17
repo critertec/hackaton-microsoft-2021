@@ -1,0 +1,44 @@
+p, ol {
+  width: min(90%, 600px);
+  margin: 25px auto;
+  text-align: justify;
+}
+
+ol {
+  list-style: none;
+  counter-reset: my-awesome-counter;
+  padding-left: 0px;
+}
+ol li {
+  counter-increment: my-awesome-counter;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+ol li::before {
+  content: counter(my-awesome-counter) " ";
+  color: var(--pink);
+  font-family: segoe-black;
+  font-size: 24px;
+}
+
+button {
+  margin-bottom: 25px;
+}
+
+.expert-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: min(90%, 1200px);
+  margin: 25px auto;
+}
+.expert {
+  width: max(25%, 300px);
+}
+.expert img {
+  width: 45%;
+  margin-bottom: -15px;
+}
+.expert span {
+  color: var(--pink);
+}
