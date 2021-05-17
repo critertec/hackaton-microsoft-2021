@@ -25,6 +25,7 @@
 
 .content {
   grid-area: content;
+  width: calc(100% - 20px);
 }
 .content p {
   width: min(90%, 600px);

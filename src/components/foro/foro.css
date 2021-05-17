@@ -1,27 +1,27 @@
-p, ol {
+.foro-section p, ol {
   width: min(90%, 600px);
   margin: 25px auto;
   text-align: justify;
 }
 
-ol {
+.foro-section ol {
   list-style: none;
   counter-reset: my-awesome-counter;
   padding-left: 0px;
 }
-ol li {
+.foro-section ol li {
   counter-increment: my-awesome-counter;
   line-height: 1.2;
   margin-bottom: 20px;
 }
-ol li::before {
+.foro-section ol li::before {
   content: counter(my-awesome-counter) " ";
   color: var(--pink);
   font-family: segoe-black;
   font-size: 24px;
 }
 
-button {
+.foro-button {
   margin-bottom: 25px;
 }
 

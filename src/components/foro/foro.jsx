@@ -4,7 +4,7 @@ import images from "./experts/images";
 
 const Foro = () => {
   return (
-    <section>
+    <section className="foro-section">
       <h1>Resuelve tus dudas</h1>
       <p>
         Si tienes preguntas respecto a algún proceso técnico, creativo o de la organización del hackathon, encuentra en el GitHub del hackathon la guía que necesitas. Contamos con un equipo de expertos dispuesto a asesorarte.
@@ -22,7 +22,7 @@ const Foro = () => {
           Te invitamos a explorar las preguntas que otros integrantes hayan realizado, puede que allí <b>encuentres solución a tus dudas</b> o puedas ayudarlos a encontrar la respuesta a sus dudas.
         </li>
       </ol>
-      <button>ir al foro</button>
+      <button className="foro-button">ir al foro</button>
 
       <h2>Conoce a los expertos</h2>
       <div className="expert-container">
