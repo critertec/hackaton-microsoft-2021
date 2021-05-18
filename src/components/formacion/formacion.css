@@ -10,6 +10,9 @@
 .menu {
   grid-area: menu;
   background-color: grey;
+  background-image: url("../../assets/pattern.png");
+  background-size: cover;
+  background-position: left center;
   color: white;
   text-align: left;
   padding: 25px 0px;
@@ -26,6 +29,7 @@
 .content {
   grid-area: content;
   width: calc(100% - 20px);
+  border-left: 10px solid var(--pink);
 }
 .content p {
   width: min(90%, 600px);

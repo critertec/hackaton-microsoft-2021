@@ -22,12 +22,14 @@ const Foro = () => {
           Te invitamos a explorar las preguntas que otros integrantes hayan realizado, puede que allí <b>encuentres solución a tus dudas</b> o puedas ayudarlos a encontrar la respuesta a sus dudas.
         </li>
       </ol>
-      <button className="foro-button">ir al foro</button>
+      <a href="https://github.com/MicrosoftHackathon/HackathonMicrosoft/discussions" target="blank">
+        <button className="foro-button">Ir al foro</button>
+      </a>
 
       <h2>Conoce a los expertos</h2>
       <div className="expert-container">
         {expertData.default.map((expert) => { return(
-          <div className="expert">
+          <div className="expert" key={expert.img}>
             <img src={images[expert.img]} alt="" />
             <p>
               <span>{expert.name}: </span>
