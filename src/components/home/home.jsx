@@ -26,7 +26,7 @@ const Home = () => {
             <p>
               Ya puedes encontrar la guía paso a paso para construir y prototipar una aplicación innovadora. Este documento te dará instrucciones para cada fase del proceso, desde la ideación hasta el prototipo.
             </p>
-            <a href=""><button>Descarga</button></a>
+            <a href="https://google.com/" target="blank"><button>Descarga</button></a>
           </div>
         </div>
 
