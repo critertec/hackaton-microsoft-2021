@@ -177,5 +177,54 @@
             "content": "https://github.com/JuanjoMurillo/HackathonMicrosoft/discussions/8"
         }
     ],
-    "Apps integradas en Teams": []
+    "Apps integradas en Teams": [
+        {
+            "type": "title",
+            "content": "Conecta tu aplicación a Teams"
+        },
+        {
+            "type": "paragraph",
+            "content": "Microsoft Teams es una Plataforma basada en la nube cuyo principal objetivo es la colaboración en equipo, mediante herramientas de mensajería y colaboración para optimizar procesos de comunicación y trabajo en equipo en tiempo real entre usuarios dentro y fuera de una organización."
+        },
+        {
+            "type": "paragraph",
+            "title": "Crear experiencias web integradas con pestañas para Microsoft Teams:",
+            "content": " Microsoft Teams es una plataforma extensible en la que puedes crear aplicaciones personalizadas. Las aplicaciones para Microsoft Teams pueden ser tan simples o tan complejas como necesites, desde enviar notificaciones a canales o usuarios hasta aplicaciones multisuperficie complejas que incorporan bots de conversación, procesamiento de lenguaje natural y experiencias web incrustadas. Puedes crear aplicaciones para una persona, tu equipo, tu organización o para todos los usuarios de Microsoft Teams de todo el mundo. "
+        },
+        {
+            "type": "enlace",
+            "content": "https://docs.microsoft.com/es-es/learn/paths/m365-msteams-associate/"
+        },
+        {
+            "type": "paragraph",
+            "title": "Crea aplicaciones para llamadas:",
+            "content": " Las reuniones son un elemento clave para mantener la productividad de las organizaciones y equipos, gracias a ellas se propicia la colaboración, el trabajo en equipo, la comunicación y la retroalimentación de una manera activa. Como creador de aplicaciones para llamadas podrás crear experiencias como tableros colaborativos, mensajes de bienvenida, encuestas al finalizar la aplicación o lo que necesites para solucionar la necesidad que hayas identificado."
+        },
+        {
+            "type": "enlace",
+            "content": "https://adoption.microsoft.com/extensibility-look-book/products/microsoft-teams/extensibility-meeting-apps"
+        },
+        {
+            "type": "paragraph",
+            "title": "Construye un bot en Teams:",
+            "content": " Un Bot permite a los usuarios interactuar con tu aplicación mediante textos, módulos interactivos y tareas modulares. De acuerdo con la complejidad que desees explorar puedes programarlo para responder comandos de texto simple o conectarlo a servicios de inteligencia artificial con capacidad para procesar lenguaje natural. Recuerda que un Bot puede ser una aplicación por si mismo, o ser parte de un desarrollo aún mayor."
+        },
+        {
+            "type": "enlace",
+            "content": "https://adoption.microsoft.com/extensibility-look-book/products/microsoft-teams/extensibility-bot"
+        }
+        ,
+        {
+            "type": "title",
+            "content": "Encuentra más en el foro"
+        },
+        {
+            "type": "paragraph",
+            "content": "Te invitamos a conocer todas las posibilidades que ofrece la integración de apicaciones a Microsoft Teams. Vista el foro y descubre cómo potenciar tu idea con esta información:"
+        },
+        {
+            "type": "enlace",
+            "content": "https://github.com/MicrosoftHackathon/ForoSoporte/discussions/10"
+        }
+    ]
 }
