@@ -4,6 +4,8 @@ import { NavLink } from "react-router-dom";
 import './home.css';
 import './flickity.css';
 import footer from '../../assets/footer.svg';
+import login from '../../assets/login.svg';
+import calendar from '../../assets/calendar.svg';
 
 const Home = () => {
   const flickityOptions = {
@@ -52,6 +54,31 @@ const Home = () => {
       </Flickity>
 
       <section className="home">
+        <div className="home-link-container">
+          <div className="home-link">
+            <h2>Regístrate</h2>
+            <div></div>
+            <img className="home-logo" src={login} alt=""/>
+            <div className="home-link-content">
+              <p>
+                Desde ya puedes realizar tu registro.  Puedes formar un equipo de 2 a 5 integrantes o regístrarte de manera individual para ser asignado a un grupo con otros estudiantes.
+              </p>
+              <NavLink to="/registro"><button>Regístrate</button></NavLink>
+            </div>
+          </div>
+
+          <div className="home-link">
+            <h2>Agenda</h2>
+            <div></div>
+            <img className="home-logo" src={calendar} alt=""/>
+            <div className="home-link-content">
+              <p>
+                Conoce la agenda de eventos que hemos preparado para ti y las fechas clave para enviar tu idea y participar por uno de los cupos al evento final.
+              </p>
+              <NavLink to="/agenda"><button>Ir a agenda</button></NavLink>
+            </div>
+          </div>
+        </div>
         <img className="footer" src={footer} alt=""/>
       </section>
     </>
