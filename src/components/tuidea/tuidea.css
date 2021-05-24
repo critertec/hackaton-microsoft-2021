@@ -1,0 +1,8 @@
+.iframe-container {
+    background-color: var(--black);
+    padding-top: 0px;
+}
+
+.iframe-container iframe {
+    height: calc(100vh - 105px);
+}

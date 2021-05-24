@@ -1,0 +1,12 @@
+.iframe-registro {
+    background-color: var(--black);
+    padding-top: 25px;
+}
+
+.iframe-registro iframe {
+    height: calc(100vh - 199px);
+}
+
+.iframe-registro h1 {
+    margin-top: 0px;
+}

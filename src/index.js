@@ -14,6 +14,7 @@ import Agenda from './components/agenda/agenda';
 import Formacion from './components/formacion/formacion';
 import Foro from './components/foro/foro';
 import Registro from './components/registro/registro';
+import Idea from './components/tuidea/tuidea';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -28,6 +29,9 @@ ReactDOM.render(
         </Route>
         <Route path="/foro">
           <Foro />
+        </Route>
+        <Route path="/idea">
+          <Idea />
         </Route>
         <Route path="/registro">
           <Registro />

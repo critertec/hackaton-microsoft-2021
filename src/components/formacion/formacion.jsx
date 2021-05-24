@@ -31,6 +31,10 @@ const Formacion = () => {
               return (
                 <h1 key={Math.random()}>{item.content}</h1>
               )
+            case 'subtitle':
+              return (
+                <h3 key={Math.random()}>{item.content}</h3>
+              )
             case 'paragraph':
               return (
                 <p key={Math.random()}><span>{item.title}</span>{item.content}</p>

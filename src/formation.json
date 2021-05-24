@@ -103,7 +103,7 @@
             "content": "https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app/"
         },
         {
-            "type": "title",
+            "type": "subtitle",
             "content": "¿Buscas más información?"
         },
         {
@@ -165,7 +165,7 @@
             "content": "https://docs.microsoft.com/es-es/learn/paths/get-started-with-artificial-intelligence-on-azure/"
         },
         {
-            "type": "title",
+            "type": "subtitle",
             "content": "¿Buscas más información?"
         },
         {
@@ -215,7 +215,7 @@
         }
         ,
         {
-            "type": "title",
+            "type": "subtitle",
             "content": "Encuentra más en el foro"
         },
         {
