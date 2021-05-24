@@ -33,7 +33,7 @@ html {
 
 body {
   margin: 0;
-  font-family: segoe-light;
+  font-family: Segoe UI, segoe-light;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -74,7 +74,7 @@ button {
   color: white;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: segoe-light;
+  font-family: Segoe UI, segoe-light;
   height: 32px;
   font-size: 18px;
   background-color: var(--blue);
@@ -109,7 +109,7 @@ ul li {
   display: inline-block;
   margin-left: 20px;
   padding: 5px 0px;
-  font-family: segoe-light;
+  font-family: Segoe UI, segoe-light;
   font-size: 25px;
 }
 ul li::before {
