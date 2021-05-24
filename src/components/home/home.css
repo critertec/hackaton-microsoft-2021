@@ -17,17 +17,17 @@
   grid-template-columns: 1fr 1fr;
 }
 .empieza {
-  background: url("../../assets/home-pic-empieza.png");
+  background: url("../../assets/home-pic-empieza.jpeg");
   background-size: cover;
   background-position: left center;
 }
 .fechas {
-  background: url("../../assets/home-pic-fechas.png");
+  background: url("../../assets/home-pic-fechas.jpeg");
   background-size: cover;
   background-position: left center;
 }
 .dudas {
-  background: url("../../assets/home-pic-dudas.png");
+  background: url("../../assets/home-pic-dudas.jpeg");
   background-size: cover;
   background-position: left center;
 }
