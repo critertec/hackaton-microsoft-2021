@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hackaton-microsoft-2021/static/css/main.eba72eea.chunk.css",
+    "main.css": "/hackaton-microsoft-2021/static/css/main.5ae96fb4.chunk.css",
     "main.js": "/hackaton-microsoft-2021/static/js/main.7d7a0e26.chunk.js",
     "main.js.map": "/hackaton-microsoft-2021/static/js/main.7d7a0e26.chunk.js.map",
     "runtime-main.js": "/hackaton-microsoft-2021/static/js/runtime-main.db854f9f.js",
@@ -8,7 +8,7 @@
     "static/js/2.055a0fdc.chunk.js": "/hackaton-microsoft-2021/static/js/2.055a0fdc.chunk.js",
     "static/js/2.055a0fdc.chunk.js.map": "/hackaton-microsoft-2021/static/js/2.055a0fdc.chunk.js.map",
     "index.html": "/hackaton-microsoft-2021/index.html",
-    "static/css/main.eba72eea.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.eba72eea.chunk.css.map",
+    "static/css/main.5ae96fb4.chunk.css.map": "/hackaton-microsoft-2021/static/css/main.5ae96fb4.chunk.css.map",
     "static/js/2.055a0fdc.chunk.js.LICENSE.txt": "/hackaton-microsoft-2021/static/js/2.055a0fdc.chunk.js.LICENSE.txt",
     "static/media/calendar.0ff63aa5.svg": "/hackaton-microsoft-2021/static/media/calendar.0ff63aa5.svg",
     "static/media/david_rendon.d4de365d.png": "/hackaton-microsoft-2021/static/media/david_rendon.d4de365d.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.db854f9f.js",
     "static/js/2.055a0fdc.chunk.js",
-    "static/css/main.eba72eea.chunk.css",
+    "static/css/main.5ae96fb4.chunk.css",
     "static/js/main.7d7a0e26.chunk.js"
   ]
 }
