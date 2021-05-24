@@ -11,14 +11,17 @@
 @font-face {
   font-family: segoe-light;
   src: url(fonts/segoeui.ttf);
+  font-display: swap;
 }
 @font-face {
   font-family: segoe-regular;
   src: url(fonts/segoeuib.ttf);
+  font-display: swap;
 }
 @font-face {
   font-family: segoe-black;
   src: url(fonts/seguibl.ttf);
+  font-display: swap;
 }
 
 html {
