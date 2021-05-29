@@ -2,19 +2,65 @@
     "Empieza aquí": [
         {
             "type": "title",
-            "content": "Bienvenido"
+            "content": "Bienvenidos al hackathon"
         },
         {
             "type": "paragraph",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+            "title": "Qué encontrarán aquí: ",
+            "content": "En esta sección de la página encontrarán toda la información que necesitan para idear, prototipar y enviar los avances de su idea."
         },
         {
             "type": "paragraph",
-            "content": "CasaLola Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+            "content": "Los invitamos a ver el siguiente vídeo, en donde uno de los expertos de nuestro equipo les dará a conocer cuál es el objetivo de este evento y los pasos que deberían seguir."
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/BmU4HMJcn9U"
+        },
+        {
+            "type": "paragraph",
+            "title": "Documento guía: ",
+            "content": "A continuación, pueden dar clic en el botón “Descarga”, el cual los llevará a un archivo .PDF en el cual encontrarán información útil para acompañar todo el proceso del Hackathon, desde cómo generar ideas innovadoras para solucionar problemas cotidianos, hasta las plantillas que deben consultar para presentar su idea a los jurados."
         },
         {
             "type": "download",
-            "content": "https://google.com/"
+            "content": "https://tmcycia0-my.sharepoint.com/:b:/g/personal/juanjose_murillo_critertec_com/ERYRRe5_K9RJnjCzJaBDr7ABesuh-Di5KOUGMXTn9l_VZw?e=1DzRVN"
+        },
+        {
+            "type": "title",
+            "content": "Fechas clave"
+        },
+        {
+            "type": "paragraph",
+            "title": "11 de junio: ",
+            "content": "Hasta este día pueden realizar su registro oficial en la sección /Registro de esta página web. Recuerden que pueden hacer este proceso de manera grupal, en caso de que ya cuenten con un equipo, o de manera individual si desean ser asignados a un equipo de su universidad."
+        },
+        {
+            "type": "paragraph",
+            "title": "18 de junio: ",
+            "content": "Este será el último día para que envíen la descripción de su idea. Consulten la página 39  a 42 de la guía para identificar la plantilla que deben completar y cómo enviarla a los jurados."
+        },
+        {
+            "type": "paragraph",
+            "content": "Como resultado de este proceso, escogeremos a los mejores equipos por cada universidad, quienes podrán avanzar a la siguiente fase de este proceso de creación."
+        },
+        {
+            "type": "paragraph",
+            "title": "23 de junio: ",
+            "content": "Los equipos que superaron el filtro anterior tendrán plazo hasta este día para enviar un breve vídeo en donde describan el funcionamiento de su aplicación y el estado actual de su desarrollo. De esta fase pasarán 5 equipos, quienes tendrán la oportunidad de presentar al público sus ideas en la próxima etapa."
+        },
+        {
+            "type": "paragraph",
+            "content": "A los equipos que hayan llegado hasta aquí los invitamos a consultar las páginas 55 a 60 de a guía del hackathon, en donde encontrarán instrucciones y consejos para construir y compartir sus vídeos."
+        },
+        {
+            "type": "paragraph",
+            "title": "25 de junio: ",
+            "content": "Este será el día de exposición de los finalistas, quienes tendrán la oportunidad de contarle al mundo sus ideas y porqué deberían ganar este Hackathon. Todos están invitados a participar y votar en este evento."
+        },
+        {
+            "type": "paragraph",
+            "content": "Con esta información están listos para iniciar, les deseamos mil éxitos en este proceso creativo. Están invitados a consultar el cronograma de eventos, en donde encontrarán espacios de formación para crear una aplicación desde cero e incluso conocer a expertos de la industria. ¡Nos vemos!."
         }
     ],
     "Diseña tu idea": [
@@ -103,7 +149,7 @@
             "content": "https://docs.microsoft.com/es-es/learn/paths/use-basic-formulas-powerapps-canvas-app/"
         },
         {
-            "type": "subtitle",
+            "type": "title",
             "content": "¿Buscas más información?"
         },
         {
@@ -165,7 +211,7 @@
             "content": "https://docs.microsoft.com/es-es/learn/paths/get-started-with-artificial-intelligence-on-azure/"
         },
         {
-            "type": "subtitle",
+            "type": "title",
             "content": "¿Buscas más información?"
         },
         {
@@ -215,7 +261,7 @@
         }
         ,
         {
-            "type": "subtitle",
+            "type": "title",
             "content": "Encuentra más en el foro"
         },
         {
