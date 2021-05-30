@@ -14,6 +14,10 @@
             "content": "Los invitamos a ver el siguiente vídeo, en donde uno de los expertos de nuestro equipo les dará a conocer cuál es el objetivo de este evento y los pasos que deberían seguir."
         },
         {
+            "type": "paragraph",
+            "content": "Pueden explorar el menú de la derecha para acceder a recursos de ideación y técnicos; con esta información podrán potenciar su proceso creativo y encontrarán recursos para hacer realidad sus ideas mediante el uso de programas de office 365, como: PowerApps, Automante, Azure y Teams. "
+        },
+        {
             "type": "video",
             "content": "https://www.youtube.com/embed/BmU4HMJcn9U"
         },
@@ -70,19 +74,43 @@
         },
         {
             "type": "paragraph",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
-        },
-        {
-            "type": "video",
-            "content": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+            "content": "Hemos preparado una serie de contenidos que les pueden ayudar a diseñar una aplicación innovadora y con el potencial de transformar su vida universitaria. En los siguientes vídeos encontrarán una serie de consejos para aprovechar al máximo el potencial de las plantillas de ideación que encontrarán en la guía del hackathon."
         },
         {
             "type": "paragraph",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euiL Lorem ipsum dolor sit amet, consec-tetuer adipiscing elit, sed diam nonummy nibh euiLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euissorem ipsum dolor sit amet, consectetuer adipiscing"
+            "title":"Descargar las plantillas de ideación: ",
+            "content": "dando clic en el siguiente botón pueden descargar las plantillas de ideación que presentamos en la guía del hackathon. Les recomendamos imprimirlas y usarlas como una guía para construcción de sus ideas."
+        },
+        {
+            "type": "download",
+            "content": "https://tmcycia0-my.sharepoint.com/:b:/g/personal/juanjose_murillo_critertec_com/EcWDz1bp9gdHioAb_u8HcZcB4TUE_N3352fQNUjR-QSe7w?e=Z2skU0"
         },
         {
             "type": "video",
-            "content": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+            "content": "https://www.youtube.com/embed/pJPgxIAzDmo"
+        },
+        {
+            "type": "paragraph",
+            "title":"Identificación e ideación: ",
+            "content": "Para acompañar el proceso de identificar la problemática que pueden resolver e identificar las posibles soluciones innovadoras, pueden usar las plantillas 1 a la 6."
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/i-VA78K1FyM"
+        },
+        {
+            "type": "paragraph",
+            "title":"Prototipado: ",
+            "content": "El proceso de prototipado puede ser acompañado por los recursos propuestos en las plantillas 7, 8 y 9."
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/iAhJj2GcZWI"
+        },
+        {
+            "type": "paragraph",
+            "title":"Comparte tu idea: ",
+            "content": "En las últimas páginas de la guía del hackathon (que encontrarán en la sección “empieza aquí” de esta página, encontrarán una serie de consejos para grabar su idea en funcionamiento y compartirla con los jurados."
         }
     ],
     "PowerApps y Automate": [
