@@ -1,92 +1,132 @@
 {
     "Semana 1": {
         "Lunes": {
+            "day": "31"
+        },
+        "Martes": {
             "day": "1",
             "events": {
-                "11:00": {
-                    "title": "Ideas que transforman: Design Thinking y Office 365",
-                    "link": "https://youtube.com/"
-                },
-                "16:00": {
-                    "title": "Ideas que transforman: Design Thinking y Office 365",
-                    "link": "https://youtube.com/"
+                "17:00": {
+                    "title": "Resuelve tus dudas del hackathon",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JmZGJmOTMtY2U0Ny00Nzk3LWFmNjYtZDE4ZDdjYmM0ZTQ1%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
                 }
             }
         },
-        "Martes": {
-            "day": "2"
-        },
         "Miércoles": {
-            "day": "3",
+            "day": "2",
             "events": {
                 "11:00": {
                     "title": "Ideas que transforman: Design Thinking y Office 365",
-                    "link": "https://youtube.com/"
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDVlNzNjZWYtNWJiMi00MzYyLWIzYzAtODk0ODRmODBkM2U0%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
                 }
             }
         },
         "Jueves": {
-            "day": "4"
+            "day": "3",
+            "events": {
+                "12:00": {
+                    "title": "Talk Microsoft: El arte de lo posible",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBhMGJiNGYtZTQ4OC00MmYyLWI5OTQtOGE4OTg2ZTAyYjEy%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Viernes": {
-            "day": "5"
+            "day": "4"
         }
     },
     "Semana 2": {
         "Lunes": {
-            "day": "16",
+            "day": "7"           
+        },
+        "Martes": {
+            "day": "8",
             "events": {
                 "13:00": {
-                    "title": "Otro evento de juanjo",
-                    "link": "https://youtube.com/"
+                    "title": "Creando tu primer app con power apps y automate parte 1",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFkZjZiYjEtN2NkYy00MWM5LThkNjAtMDA4ZjMxZDJiZmZm%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                },
+                "14:00": {
+                    "title": "Conoce las rutas de certificación de Microsoft",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTk1YzFkYTctZDBjZC00NGUwLTgxOGUtZjJkOWNlZjdhMjY0%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                },
+                "17:00": {
+                    "title": "Creando tu primer app con power apps y automate parte 1",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmEwNDA3NmQtYjNhOS00ZTZmLWEwY2ItMWRiYjI1N2Q0NDIz%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
                 }
             }
         },
-        "Martes": {
-            "day": "7"
-        },
         "Miércoles": {
-            "day": "8"
+            "day": "9",
+            "events": {
+                "12:00": {
+                    "title": "Introducción a Azure: alcances de la herramienta",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWY0ZWM1MzQtYjE2MC00MzYzLTg1ZTEtZGRlZTIyNjJhM2Y5%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                },
+                "17:00": {
+                    "title": "Introducción a Azure: alcances de la herramienta",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWY4ODU5OWUtNmY1NC00MmRlLTkzNzItMTgzZmVhOGFiNzQ2%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Jueves": {
-            "day": "9"
+            "day": "10",
+            "events": {
+                "13:00": {
+                    "title": "Creando tu primer app con power apps y automate parte 2",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWMyMTIzNmMtNzQzZi00Njg2LWIzZDctOGQ3OWRkNTU3MmEy%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                },
+                "17:00": {
+                    "title": "Creando tu primer app con power apps y automate parte 2",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODAyNmY4NjgtY2QyNS00MzJiLWI4NTktMTU0ZTZhZmI0ODAy%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Viernes": {
-            "day": "10"
+            "day": "11",
+            "events": {
+                "12:00": {
+                    "title": "Crea tu primer BOT con Microsoft",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzkzYjdhNzUtNjBmOS00NGU0LWFlMTUtZDE0YWVkZDk1YzUy%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                },
+                "17:00": {
+                    "title": "Crea tu primer BOT con Microsoft",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzRiMmY4ZWUtYjIzNS00MGJiLTk1MWUtYmQ5YzRmYjRiZGJl%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         }
     },
     "Semana 3": {
         "Lunes": {
-            "day": "11"
-        },
-        "Martes": {
-            "day": "12"
-        },
-        "Miércoles": {
-            "day": "13"
-        },
-        "Jueves": {
             "day": "14"
         },
-        "Viernes": {
+        "Martes": {
             "day": "15"
+        },
+        "Miércoles": {
+            "day": "16"
+        },
+        "Jueves": {
+            "day": "17"
+        },
+        "Viernes": {
+            "day": "18"
         }
     },
     "Semana 4": {
         "Lunes": {
-            "day": "16"
+            "day": "21"
         },
         "Martes": {
-            "day": "17"
+            "day": "22"
         },
         "Miércoles": {
-            "day": "18"
+            "day": "23"
         },
         "Jueves": {
-            "day": "19"
+            "day": "24"
         },
         "Viernes": {
-            "day": "20"
+            "day": "25"
         }
     }
 }
