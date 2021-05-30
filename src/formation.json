@@ -189,6 +189,50 @@
             "content": "https://github.com/JuanjoMurillo/HackathonMicrosoft/discussions/7"
         }
     ],
+    "Crea tu primera aplicación": [
+        {
+            "type": "title",
+            "content": "Cómo hacer una app con Microsoft"
+        },
+        {
+            "type": "paragraph",
+            "content": "Si esta es la primera vez que usarán herramientas de Microsoft para crear una aplicación, les recomendamos consultar los siguientes contenidos, en donde un experto les explicará paso a paso cómo usar PowerApps y Automate para crear su primera aplicación."
+        },
+        {
+            "type": "paragraph",
+            "title": "Introducción a Automate:",
+            "content": " Inicien el camino para crear su propia aplicación, en el siguiente vídeo uno de los expertos de nuestro equipo explicará los pasos que deben seguir para iniciar este proceso desde Automate."
+        },
+        {
+            "type": "video",
+            "content": "https://www.youtube.com/embed/xvXTm1QXFd8"
+        },
+        {
+            "type": "paragraph",
+            "content": "Dando clic en el siguiente botón pueden consultar un resumen del paso a paso presentado en el vídeo de introducción a Automate."
+        },
+        {
+            "type": "download",
+            "content": "https://tmcycia0-my.sharepoint.com/:b:/g/personal/juanjose_murillo_critertec_com/ETah52em77ZEoM67n3qXFpgBsOrFyBwRrsE43K6sMZtBrQ?e=4p2urc"
+        },
+        {
+            "type": "paragraph",
+            "title": "Introducción a PowerApps:",
+            "content": " En el siguiente vídeo podrán identificar las principales herramientas y pasos que deben seguir en PowerApps para conectar los flujos creados en automate y proceder a crear su primera aplicación."
+        },
+        {    
+            "type": "video",
+            "content": "https://www.youtube.com/embed/6rEh8vWcbLA"        
+        },
+        {
+            "type": "paragraph",
+            "content": "Pueden consultar el resumen del paso a paso de la presentación de PowerApps dando clic en el siguiente botón."
+        },
+        {
+            "type": "download",
+            "content": "https://tmcycia0-my.sharepoint.com/:b:/g/personal/juanjose_murillo_critertec_com/ESLZid6pqsBDmr_aSU5nMi8BsPnU64akgAKSWXL5AX2MWg?e=Apnfqy"
+        }
+    ],
     "Azure": [  
         {
             "type": "title",
