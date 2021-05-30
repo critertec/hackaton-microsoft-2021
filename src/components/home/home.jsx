@@ -35,9 +35,24 @@ const Home = () => {
         <div className="carousel-cell fechas">
           <div className="carousel-container">
             <h1 className="h1-carousel">Fechas clave</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisc-ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-            </p>
+            <div className="fechas-container">
+              <div className="fecha-carousel">
+                <span className="title-fecha">11 de junio:</span>
+                Cierre de registros
+              </div>
+              <div className="fecha-carousel">
+                <span className="title-fecha">18 de junio:</span>
+                Selección de mejores ideas por universidad
+              </div>
+              <div className="fecha-carousel">
+                <span className="title-fecha">23 de junio:</span>
+                Selección de los 5 finalistas
+              </div>
+              <div className="fecha-carousel">
+                <span className="title-fecha">25 de junio:</span>
+                Final en vivo y cierre
+              </div>
+            </div>
             <NavLink to="/agenda"><button>Calendario</button></NavLink>
           </div>
         </div>
