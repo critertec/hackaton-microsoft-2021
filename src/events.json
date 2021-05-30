@@ -100,13 +100,31 @@
             "day": "14"
         },
         "Martes": {
-            "day": "15"
+            "day": "15",
+            "events": {
+                "12:00": {
+                    "title": "Bienvenida equipos registrados",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTVkMDliOTItM2IzNS00N2MyLTk3MDItNTM3MTk1ZmNhMWYy%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Miércoles": {
-            "day": "16"
+            "day": "16",
+            "events": {
+                "12:00": {
+                    "title": "Conoce la programación extrema",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODJkNjRkYjQtNTUyOS00N2JjLWE3MzktNGY5YzRjZDZmNmY1%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Jueves": {
-            "day": "17"
+            "day": "17",
+            "events": {
+                "16:00": {
+                    "title": "¿Estoy listo para el filtro 1? Sesión de preguntas",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDVmNzE2NTMtNGRhYi00NGI1LTlmYzgtMGNlYTZlNzkzMGVm%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Viernes": {
             "day": "18"
@@ -114,7 +132,13 @@
     },
     "Semana 4": {
         "Lunes": {
-            "day": "21"
+            "day": "21",
+            "events": {
+                "16:00": {
+                    "title": "Bienvenida a ganadores filtro 1",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzljZDNlMWItMmViZi00YjgzLWE4NTUtNjU1ZTg3M2M5Yjlm%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Martes": {
             "day": "22"
@@ -123,10 +147,22 @@
             "day": "23"
         },
         "Jueves": {
-            "day": "24"
+            "day": "24",
+            "events": {
+                "16:00": {
+                    "title": "Anuncio de equipos finalistas",
+                    "link": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY4MDhkYWQtNmFkNS00NjgwLWEwODYtNDQ4MDliOGE5ZjFk%40thread.v2/0?context=%7b%22Tid%22%3a%222d983a16-35db-4808-8d42-14367e1b5d6f%22%2c%22Oid%22%3a%22807ce1e9-0b4b-4c60-b5ef-e937076b8813%22%7d"
+                }
+            }
         },
         "Viernes": {
-            "day": "25"
+            "day": "25",
+            "events": {
+                "14:00": {
+                    "title": "Evento de cierre y selección ganador",
+                    "link": "https://youtu.be/eNKkWfwEO6c"
+                }
+            }
         }
     }
 }
