@@ -1,5 +1,5 @@
 import Flickity from 'react-flickity-component';
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 import './home.css';
 import './flickity.css';
@@ -28,7 +28,9 @@ const Home = () => {
             <p>
               Ya puedes encontrar la guía paso a paso para construir y prototipar una aplicación innovadora. Este documento te dará instrucciones para cada fase del proceso, desde la ideación hasta el prototipo.
             </p>
-            <a href="https://google.com/" target="blank"><button>Descarga</button></a>
+            <Link to="/downloads/GuiaDeHackathon_2021.pdf" target="_blank" download>
+              <button>Descarga</button>
+            </Link>
           </div>
         </div>
 

@@ -22,12 +22,12 @@
   background-position: left center;
 }
 .fechas {
-  background: url("../../assets/carousel/Desktop2.jpg");
+  background: url("../../assets/carousel/Desktop3.jpg");
   background-size: cover;
   background-position: left center;
 }
 .dudas {
-  background: url("../../assets/carousel/Desktop3.jpg");
+  background: url("../../assets/carousel/Desktop2.jpg");
   background-size: cover;
   background-position: left center;
 }
@@ -164,12 +164,12 @@
     background-position: center center;
   }
   .fechas {
-    background: url("../../assets/carousel/Mobile2.jpg");
+    background: url("../../assets/carousel/Mobile3.jpg");
     background-size: cover;
     background-position: center center;
   }
   .dudas {
-    background: url("../../assets/carousel/Mobile3.jpg");
+    background: url("../../assets/carousel/Mobile2.jpg");
     background-size: cover;
     background-position: center center;
   }

@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { Link } from "react-router-dom";
+
 import './formacion.css';
 import * as formationData from '../../formation.json';
 import login from '../../assets/login.svg';
@@ -44,9 +46,9 @@ const Formacion = () => {
                 <div key={Math.random()}>
                   <img className="logo" src={login} alt=""/>
                   <div>
-                    <a href={item.content} target="blank">
+                    <Link to={item.content} target="_blank" download>
                       <button>Descarga</button>
-                    </a> 
+                    </Link>
                   </div>
                 </div>
               )
