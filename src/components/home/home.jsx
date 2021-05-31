@@ -90,7 +90,7 @@ const Home = () => {
             <img className="home-logo" src={calendar} alt=""/>
             <div className="home-link-content">
               <p>
-                Conoce la agenda de eventos que hemos preparado para ti y las fechas clave para enviar tu idea y participar por uno de los cupos al evento final.
+                Conoce la agenda de eventos que hemos preparado para ti. Tendrás la oportunidad de conocer y aprender de expertos que te guiarán en el proceos de diseño de tu ideas.
               </p>
               <NavLink to="/agenda"><button>Ir a agenda</button></NavLink>
             </div>
