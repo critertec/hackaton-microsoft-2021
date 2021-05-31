@@ -2,7 +2,6 @@
   "name": "hackaton-microsoft-2021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://critertec.github.io/hackaton-microsoft-2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
