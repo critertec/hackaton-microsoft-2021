@@ -17,17 +17,17 @@
   grid-template-columns: 1fr 1fr;
 }
 .empieza {
-  background: url("../../assets/home-pic-empieza.jpeg");
+  background: url("../../assets/carousel/Desktop1.jpg");
   background-size: cover;
   background-position: left center;
 }
 .fechas {
-  background: url("../../assets/home-pic-fechas.jpeg");
+  background: url("../../assets/carousel/Desktop2.jpg");
   background-size: cover;
   background-position: left center;
 }
 .dudas {
-  background: url("../../assets/home-pic-dudas.jpeg");
+  background: url("../../assets/carousel/Desktop3.jpg");
   background-size: cover;
   background-position: left center;
 }
@@ -156,5 +156,21 @@
     width: 90%;
     margin: 10px auto;
     font-size: 16px;
+  }
+
+  .empieza {
+    background: url("../../assets/carousel/Mobile1.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+  .fechas {
+    background: url("../../assets/carousel/Mobile2.jpg");
+    background-size: cover;
+    background-position: center center;
+  }
+  .dudas {
+    background: url("../../assets/carousel/Mobile3.jpg");
+    background-size: cover;
+    background-position: center center;
   }
 }
