@@ -5,7 +5,7 @@ import CalendarList from './components/calendar-list/calendar-list'
 import * as eventData from '../../events.json';
 
 const Agenda = () => {
-  const [selectedWeek, setSelectedWeek] = useState('Semana 1');
+  const [selectedWeek, setSelectedWeek] = useState('Semana 2');
 
   return (
     <section>
